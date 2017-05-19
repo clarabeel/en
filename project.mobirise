@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clarabeelEN",
-    "currentPage": "index.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -700,7 +700,7 @@
                 "showTitle": true,
                 "title": "What to become — after",
                 "showText": true,
-                "text": "A publication about reincarnation.<br>Made during my Erasmus in HDK, Gothenburg, Sweden.",
+                "text": "A publication about reincarnation.<br>Made during Clara's Erasmus at HDK, Gothenburg, Sweden.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
