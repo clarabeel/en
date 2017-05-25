@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clarabeelEN",
-    "currentPage": "index.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "clara beel",
-        "meta_descr": "home page, ",
+        "meta_descr": "home page, startpagina, projects, projecten, posters, publications, publicaties, sites, websites, Clara, Beel, Clara Beel, contact, grafisch, ontwerp, grafisch ontwerp, graphic, design, graphic design",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -417,7 +417,7 @@
     "about.html": {
       "settings": {
         "title": "about",
-        "meta_descr": "about"
+        "meta_descr": "about, over, projects, projecten, posters, publications, publicaties, sites, websites, Clara, Beel, Clara Beel, contact, grafisch, ontwerp, grafisch ontwerp, graphic, design, graphic design"
       },
       "components": [
         {
@@ -671,7 +671,7 @@
     "projects.html": {
       "settings": {
         "title": "projects",
-        "meta_descr": "projects, posters, publications, sites"
+        "meta_descr": "projects, projecten, posters, publications, publicaties, sites, websites, Clara, Beel, Clara Beel, contact, grafisch, ontwerp, grafisch ontwerp, graphic, design, graphic design"
       },
       "components": [
         {
